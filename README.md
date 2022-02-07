@@ -25,7 +25,7 @@ I have a vast array of interest in the Data and Tech industry. In my free time I
   * [SQL In MS SQL and Postgres](https://github.com/ZandiNkonzo/ZandiNkonzo/blob/main/SLQC.png)
   * [Probability and statistics](https://github.com/ZandiNkonzo/ZandiNkonzo/blob/main/probC.png)
   * [Microsoft SQL](https://github.com/ZandiNkonzo/ZandiNkonzo/blob/main/sql2c.png)
-  * 
+  * [Explore Data Science Academy Graduate](https://explore-datascience.net/)
 # :trophy: Technologies, Frameworks and Software Experience:
 
  ![Python](https://github.com/ZandiNkonzo/ZandiNkonzo/blob/main/1.jfif)  ![R and Rstudioi](https://github.com/ZandiNkonzo/ZandiNkonzo/blob/main/2.jfif) 
