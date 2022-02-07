@@ -38,7 +38,7 @@ I have a vast array of interest in the Data and Tech industry. In my free time I
  ![flask](https://github.com/ZandiNkonzo/ZandiNkonzo/blob/main/fl.png)    ![django](https://github.com/ZandiNkonzo/ZandiNkonzo/blob/main/dj.png)
  
 # :postal_horn: Contact and Resume:
-* [Resume]()
 * <gill.macnkonzo@gmail.com>
+* (+27) 658736537
 
  
