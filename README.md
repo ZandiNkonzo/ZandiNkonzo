@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hi, 👋 I'm Zandi Nkonzo
 
-<!--
-**ZandiNkonzo/ZandiNkonzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I am a data science enthusiast who uses various analytical skills and  various tools to solve problems through critical and creative thinking for innovating ideas.I am a hardworking, self-driven and enthusiastic woman, I enjoy problem solving and learning new things especially technical and scientific 
+
+
+
+
 
 Here are some ideas to get you started:
 
