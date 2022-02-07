@@ -37,8 +37,9 @@ I have a vast array of interest in the Data and Tech industry. In my free time I
  ![Big Query](https://github.com/ZandiNkonzo/ZandiNkonzo/blob/main/15.png) ![Jupyter](https://github.com/ZandiNkonzo/ZandiNkonzo/blob/main/16.png)
  ![flask](https://github.com/ZandiNkonzo/ZandiNkonzo/blob/main/fl.png)    ![django](https://github.com/ZandiNkonzo/ZandiNkonzo/blob/main/dj.png)
  
-# :postal_horn: Contact and Resume:
+# :postal_horn: Contact details:
 * <gill.macnkonzo@gmail.com>
 * (+27) 658736537
+Fell free to contact me for my CV or collaborations on Projects
 
  
