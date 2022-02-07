@@ -1,17 +1,17 @@
+
+
 ### Hi, 👋 I'm Zandi Nkonzo
 
-#I am a data science enthusiast who uses various analytical skills and  various tools to solve problems through critical and creative thinking for innovating ideas.I am a hardworking, self-driven and enthusiastic woman, I enjoy problem solving and learning new things especially technical and scientific 
+I am a data science enthusiast who uses various analytical skills and tools to solve problems through critical and creative thinking.I am a hardworking, self-driven and enthusiastic,I enjoy problem solving and learning new concepts especially technical and scientific. Currently working with 5ARM-Tech Project on Image classificatiion Project for Agriculture using Deep learning models.I am enjoying the thrill of solving new problems and bringing those solutions to the market to see how they help enhance the lives of others.
+
+I have a vast array of interest in the Data and Tech industry. In my free time I research new concepts and learn new technologies. Currently I have an interest in Agritech and how we can use machine learning to help automate and enhance the farming experience of south african smallholder farmers.Its been a joy of mine to be apart of the projects at 5ARM-Tech as a lead Data Scientist, helping the company shape products via data science,computer science and engineering principles. I Have a passion for innovation and leveraging AI and technology in order to bring innovations to life.
 
 
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on:
+* 5ARM-TECH Disease Recognition Projects using keras/fastai/pytorch and other frameworks for Image classification
+* WorldQuants
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
