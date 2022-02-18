@@ -40,6 +40,6 @@ I have a vast array of interest in the Data and Tech industry. In my free time I
 # :postal_horn: Contact details:
 * <gill.macnkonzo@gmail.com>
 * (+27) 658736537
-Fell free to contact me for my CV or collaborations on Projects
+Feel free to contact me for my CV or collaborations on Projects
 
  
